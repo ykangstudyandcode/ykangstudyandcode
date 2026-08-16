@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yikang Chen
+# 👋 Hi, I'm Yikang Chen
 
 ### Cybersecurity Student | Backend Development
 
